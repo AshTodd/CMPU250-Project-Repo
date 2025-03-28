@@ -1,6 +1,6 @@
 # Exploratory Data Analysis & Data Preparation Q/A
 
-## Exploring the Data:
+## Exploring the Data
 
 ### What is your outcome variable(s)? How well does it measure the outcome you are interested in? How does it relate to your expectations?
 
@@ -10,7 +10,7 @@ The outcome variable in our model is the Precinct Code. We aim to build a predic
 
 Key explanatory variables are the Suspect Sex, Suspect Race, Suspect Age, Offense Type, and the number of reports reported in the precinct. 
 
-## Data Preparation and Cleaning:
+## Data Preparation and Cleaning
 
 ### What data cleaning did you have to do?
 
