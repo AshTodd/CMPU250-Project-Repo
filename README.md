@@ -1,9 +1,13 @@
 # CMPU250 Project Repo
  Domestic violence reporting and analysis by Ash Todd, Nora Phelan, Eaint May and Zack Taylor 
 
+## Table of Contents
+* [Codebook](##CodeBook)
+  - [Used Variables Table](###_Used_Variables)
+  - [Created Variables Table](###_Created_Variables)
 ## CodeBook
 
-### Existing Variables
+### Used Variables
 
 | Variable | Description |
 | --- | --- |
