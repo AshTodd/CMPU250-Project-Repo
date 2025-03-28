@@ -1,5 +1,5 @@
 # CMPU250 Project Repo
- Domestic violence reporting and analysis by Ash Todd, Nora Phelan, Eaint May and Zack Taylor 
+ Domestic violence reporting and analysis by Ash Todd, Nora Phelan, Eaint May and Zack Taylor.
 
 ## Table of Contents
 * [Exploratory Data Analysis & Data Preparation Q/A](#Exploratory-Data-Analysis-&-Data-Preparation-Q/A)
